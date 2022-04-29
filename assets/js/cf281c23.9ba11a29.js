@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_notes=self.webpackChunkawesome_notes||[]).push([[2155],{6181:function(s){s.exports=JSON.parse('{"name":"Sass","permalink":"/awesome-notes/tags/sass","docs":[{"id":"web/css/sassBasicNotes","title":"Sass Basic Notes","description":"Sass Basis","permalink":"/awesome-notes/web/css/sassBasicNotes"}],"allTagsPath":"/awesome-notes/tags"}')}}]);

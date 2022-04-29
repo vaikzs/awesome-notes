@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_notes=self.webpackChunkawesome_notes||[]).push([[7545],{4853:function(e){e.exports=JSON.parse('{"name":"HTML","permalink":"/awesome-notes/tags/html","docs":[{"id":"web/html/htmlBasicNotes","title":"HTML Basic Notes","description":"Emmet","permalink":"/awesome-notes/web/html/htmlBasicNotes"}],"allTagsPath":"/awesome-notes/tags"}')}}]);
